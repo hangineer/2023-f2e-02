@@ -1,5 +1,5 @@
 <template>
-  <!-- <canvas id="party-chart"></canvas> -->
+  <canvas id="party-chart"></canvas>
   <div class="flex items-center mb-2">
     <p class="mr-3">3</p>
     <div class="mr-5 w-[104px]">

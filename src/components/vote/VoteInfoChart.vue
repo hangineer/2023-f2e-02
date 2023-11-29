@@ -1,6 +1,6 @@
 <template>
   <div>
-    <!-- <canvas id="vote-chart"></canvas> -->
+    <canvas id="vote-chart"></canvas>
     <p class="">投票數
       <span class="">14,464,571 票</span>
     </p>

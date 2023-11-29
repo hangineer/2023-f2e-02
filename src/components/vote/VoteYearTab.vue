@@ -56,7 +56,7 @@
   <button class="bg-navy btn text-white">
     清除
 
-    <faIcon icon="fa-solid fa-rotate-right text-white" />
+    <!-- <faIcon icon="fa-solid fa-rotate-right text-white" /> -->
     <!-- <i class="fa-solid fa-rotate-right text-white"></i> -->
   </button>
   <div

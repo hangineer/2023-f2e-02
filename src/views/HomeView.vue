@@ -1,9 +1,11 @@
-<script setup>
-import TheWelcome from '../components/TheWelcome.vue'
-</script>
-
 <template>
-  <main>
-    <TheWelcome />
-  </main>
+  <div class="container">
+    <VoteYearTab />
+    <VoteInfoChart />
+  </div>
 </template>
+
+<script setup>
+import VoteYearTab from '@/components/VoteYearTab.vue';
+import VoteInfoChart from '@/components/VoteInfoChart.vue';
+</script>

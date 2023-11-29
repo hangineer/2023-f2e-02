@@ -11,6 +11,7 @@ module.exports = {
       padding: '48px',
     },
     fontSize: {
+      xs: ['12px', '17px'],
       sm: ['14px', '16px'],
       base: ['16px', '19px'],
       lg: ['20px', '28px'],
